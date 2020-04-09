@@ -1,10 +1,10 @@
 #  Coindex
 
 A CLI (Command Line Interface) system for checking 
-
 cryptocurrency using Nomics API for getting the data
 
-
+Um sistema CLI (Interface de linha de comando) para checar 
+valores de cryptomoedas usando a API do Nomics para coletar os dados
 
 ## Installing
 
